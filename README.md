@@ -1,6 +1,7 @@
 # interviewQuestion  
 ## 자바)  
 1. 가비지 컬렉션이란  
+    https://www.crocus.co.kr/1512  
 2. 벡터와 어레이리스트의 차이는?  
 3. String과 StringBuffer의 차이  
 4. JAVA 씨리얼라이제이션  

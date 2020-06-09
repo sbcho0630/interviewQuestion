@@ -54,5 +54,6 @@
 5. Spring DI  
 6. Spring AOP  
 7. Restful이란?  
+https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html  
 8. Spring Transaction 처리 방법  
 *****
